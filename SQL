@@ -1,0 +1,3 @@
+Creating a schema named hibernate-demo  inside the MySQL Database. And running the application.
+
+SELECT * FROM hibernate-demo.song;
